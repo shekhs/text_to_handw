@@ -16,7 +16,7 @@
 - Then, create a virtual environment and install the packages from requirements.txt.
 
 ## Directions to run
-- Run the following command in the myfont directory inside project directory:
+- Run the following command in project directory:
 ```
 python3 tth.py
 ```
